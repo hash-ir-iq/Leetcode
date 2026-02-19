@@ -6,9 +6,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hash-ir-iq/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hash-ir-iq/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
