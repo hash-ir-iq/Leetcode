@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hash-ir-iq/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/hash-ir-iq/Leetcode/tree/master/2571-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/hash-ir-iq/Leetcode/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
