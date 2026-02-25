@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0263-ugly-number) |
 | [2571-find-the-pivot-integer](https://github.com/hash-ir-iq/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
