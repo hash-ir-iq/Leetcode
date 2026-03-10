@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hash-ir-iq/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/hash-ir-iq/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/hash-ir-iq/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2571-find-the-pivot-integer](https://github.com/hash-ir-iq/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
