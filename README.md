@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/hash-ir-iq/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hash-ir-iq/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2571-find-the-pivot-integer](https://github.com/hash-ir-iq/Leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/hash-ir-iq/Leetcode/tree/master/2571-find-the-pivot-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/hash-ir-iq/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/hash-ir-iq/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
