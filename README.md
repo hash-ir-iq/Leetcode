@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hash-ir-iq/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2058-concatenation-of-array](https://github.com/hash-ir-iq/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/hash-ir-iq/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
