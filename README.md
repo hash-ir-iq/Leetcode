@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/hash-ir-iq/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hash-ir-iq/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/hash-ir-iq/Leetcode/tree/master/0342-power-of-four) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hash-ir-iq/Leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/hash-ir-iq/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hash-ir-iq/Leetcode/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hash-ir-iq/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
