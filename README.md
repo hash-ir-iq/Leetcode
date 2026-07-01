@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hash-ir-iq/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/hash-ir-iq/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/hash-ir-iq/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hash-ir-iq/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hash-ir-iq/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hash-ir-iq/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/hash-ir-iq/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hash-ir-iq/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -80,5 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hash-ir-iq/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/hash-ir-iq/Leetcode/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hash-ir-iq/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
