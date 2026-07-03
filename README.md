@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hash-ir-iq/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hash-ir-iq/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hash-ir-iq/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hash-ir-iq/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hash-ir-iq/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hash-ir-iq/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hash-ir-iq/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hash-ir-iq/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hash-ir-iq/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hash-ir-iq/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/hash-ir-iq/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
