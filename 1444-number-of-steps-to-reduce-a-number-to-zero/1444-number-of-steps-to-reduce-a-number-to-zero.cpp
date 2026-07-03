@@ -7,11 +7,11 @@ public:
         {
             if(num&1)
             {
-                num--;
+                num = num ^ 1;
                 steps++;
             }
             else{
-                num = num /2;
+                num = num >> 1;
                 steps++;
             }
         }
