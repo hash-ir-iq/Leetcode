@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hash-ir-iq/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/hash-ir-iq/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/hash-ir-iq/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/hash-ir-iq/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hash-ir-iq/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2058-concatenation-of-array](https://github.com/hash-ir-iq/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Sorting
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/hash-ir-iq/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/hash-ir-iq/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Bit Manipulation
 |  |
