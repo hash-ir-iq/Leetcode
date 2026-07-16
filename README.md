@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/hash-ir-iq/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hash-ir-iq/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2058-concatenation-of-array](https://github.com/hash-ir-iq/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3194-find-words-containing-character](https://github.com/hash-ir-iq/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hash-ir-iq/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hash-ir-iq/Leetcode/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/hash-ir-iq/Leetcode/tree/master/0742-to-lower-case) |
+| [3194-find-words-containing-character](https://github.com/hash-ir-iq/Leetcode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
