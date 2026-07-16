@@ -108,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/hash-ir-iq/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hash-ir-iq/Leetcode/tree/master/0242-valid-anagram) |
+| [0742-to-lower-case](https://github.com/hash-ir-iq/Leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
