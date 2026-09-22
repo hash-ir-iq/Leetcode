@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hash-ir-iq/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hash-ir-iq/Leetcode/tree/master/0125-valid-palindrome) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hash-ir-iq/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hash-ir-iq/Leetcode/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/hash-ir-iq/Leetcode/tree/master/0742-to-lower-case) |
 | [3194-find-words-containing-character](https://github.com/hash-ir-iq/Leetcode/tree/master/3194-find-words-containing-character) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hash-ir-iq/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
